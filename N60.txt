@@ -1,0 +1,6 @@
+X1000
+60. Za poziom ochronny przeciwciał po szczepieniu lub przechorowaniu influenzy świń przyjmuje się:
+a) miano ≥ 1:40 w badaniu testem hamowania hemaglutynacji
+b) każe miano przeciwciał wykazane w badaniu testem ELISA
+c) wartość Ct = 30 w badaniu q-PCR
+d) miano ≥ 1:240 w badaniu testem seroneutralizacji

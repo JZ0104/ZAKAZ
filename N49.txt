@@ -1,0 +1,6 @@
+X1000
+49. Jaki status ma aktualnie Polska w odniesieniu do Choroby Aujeszkyego?
+a) kraj wolny od choroby Aujeszkyego u świń
+b) kraj, w którym występują regiony o statusie wolnym od choroby Aujeszkyego u świń
+c) kraj, w którym występują regiony o statusie urzędowo wolnym od choroby Aujeszkyego dzików i świń
+d) kraj urzędowo wolny od choroby Aujeszkyego dzików

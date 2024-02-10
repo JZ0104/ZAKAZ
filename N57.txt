@@ -1,0 +1,6 @@
+X1000
+57. Szczepienia p/ko APP u świń prowadzimy:
+a) uwzględniając serotyp występujący w środowisku zwierząt
+b) uwzględniając brak odporności krzyżowej między biotypem 1 i 2 wirusa
+c) uwzględniając odporność krzyżową między serotypami APP
+d) w przypadku APP nie ma szczepionek i nie prowadzi się profilaktyki swoistej

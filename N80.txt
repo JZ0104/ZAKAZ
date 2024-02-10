@@ -1,0 +1,6 @@
+X0010
+80. Rola Clostridium perfringens typu A w patogenezie chorób świń nie jest do końca poznana, z uwagi na:
+a) fakt nie wytwarzania toksyn przez ten rodzaj bakterii u świń 
+b) Clostridium perfringens typu A w ogóle nie powoduje zakażeń u świń
+c) stałą obecnością tych bakterii w przewodzie pokarmowym ludzi i zwierząt
+d) przeciwciała SIgA, które neutralizują zarazek w świetle jelita 

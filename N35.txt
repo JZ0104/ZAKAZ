@@ -1,0 +1,6 @@
+X0100
+35. W przypadku FMD najwyższą wrażliwość wykazują w kolejności:
+a) kozy, owce, bydło, świnie
+b) bydło, owce, kozy, świnie
+c) bydło, człowiek, świnie, owce
+d) owce, człowiek, bydło, konie
